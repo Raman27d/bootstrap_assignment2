@@ -1,8 +1,14 @@
+#red{
+	background-color: grey;
+	align-content: center;
+}
 body{
 	
 	margin: 0px;
 }
-
+.navbar a:hover{
+	color: grey;
+}
 #photo{
 	width: 100%;
 	height: 500px;
